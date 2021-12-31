@@ -1,7 +1,8 @@
 # Control_PC_Without_Touch
 This was a project I worked on in my third year of engineering ( June 2019 ) I used Arduino along with 2 Ultrasonic sensors. using a combination of these I was able to perform 4 actions without touching the computer ( by using the position of my hand ).The application was based on the relative position of my hand with respect to the 2 sensors located on the left and right side of the computerscreen. 
 
-https://www.youtube.com/watch?v=7Ow-aXys7FY&ab_channel=SuyashMehra
+
+[![VR Game](http://img.youtube.com/vi/7Ow-aXys7FY/0.jpg)](http://www.youtube.com/watch?v=7Ow-aXys7FY&ab_channel=SuyashMehraE "SLP VR Game Using Unity")
 
 Process. 
 
