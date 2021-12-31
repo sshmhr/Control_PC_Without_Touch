@@ -1,6 +1,8 @@
 # Control_PC_Without_Touch
 This was a project I worked on in my third year of engineering ( June 2019 ) I used Arduino along with 2 Ultrasonic sensors. using a combination of these I was able to perform 4 actions without touching the computer ( by using the position of my hand ).The application was based on the relative position of my hand with respect to the 2 sensors located on the left and right side of the computerscreen. 
 
+https://www.youtube.com/watch?v=7Ow-aXys7FY&ab_channel=SuyashMehra
+
 Process. 
 
 1. The sensors track the obstacles ( Hand ) in front of it at regular intervals of time. each sensor calculate the distance of my hand if its beyond a certain limit ( 50 - 70CM ) its considered far, if its between 0-25 cm, its considered near.
