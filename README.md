@@ -26,4 +26,4 @@ Tech and software packages used :
 
 4. Python
 
-5. pyautogui ( To simulate key presses ) and pyserial module( to get the data from the sensors ) ( python modules ) 
+5. pyautogui ( To simulate key presses ) and pyserial module ( to get the data from the sensors ) ( python modules ) 
